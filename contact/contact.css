@@ -1,0 +1,18 @@
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: #222121;
+    align-content: center;
+    display: flex;
+}
+
+.formular {
+    width: 50%;
+    height: 50%;
+    background-color: rgb(111, 169, 111);
+    border: white solid 1px;
+    align-content: center;
+}
+.form_in{
+    text-align: center;
+}
